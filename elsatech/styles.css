@@ -1,0 +1,25 @@
+body{
+    background-color: white;
+    color: black;
+}
+
+nav{
+    background-color: brown;
+    border-radius: 0;
+    border: 0;
+}
+
+
+ #Welcome{
+      text-align: center;
+      color: black;
+ }
+
+ #Hello{
+     text-align: center;
+
+ }
+
+ #Services{
+     background-color: blueviolet;
+ }
